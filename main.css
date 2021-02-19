@@ -13,6 +13,7 @@ div {
 #red{
   color: #f00;
 }
+
 #orange{
   color: #ffa500;
 }
@@ -22,12 +23,15 @@ div {
 #green{
   color: #00bc3f;
 }
+
 #blue{
   color: #06f;
 }
+
 #indigo{
   color: #8a2be2;
 }
+
 #violet{
   color: #d300c9;
 }
